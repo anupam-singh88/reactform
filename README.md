@@ -26,3 +26,4 @@ This project is a simple form created using React.js and the useState hook with 
 
 ## URl
 Deployed on firebase: https://reactform-d1909.web.app
+gh-pages: https://anupam-singh88.github.io/reactform/
