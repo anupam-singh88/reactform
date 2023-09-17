@@ -25,3 +25,4 @@ This project is a simple form created using React.js and the useState hook with 
 6. Fill out the form and submit to see the entered data in the console.
 
 ## URl
+Deployed on firebase: https://reactform-d1909.web.app
