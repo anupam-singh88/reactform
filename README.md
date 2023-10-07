@@ -1,4 +1,9 @@
 # ReactForm
+## URl
+Deployed on firebase: https://reactform-d1909.web.app
+gh-pages: https://anupam-singh88.github.io/reactform/
+
+![image](https://github.com/anupam-singh88/reactform/assets/89381022/6593ba03-374f-418a-99c3-e735224cad09)
 
 ## Description
 This project is a simple form created using React.js and the useState hook with modern ES6 syntax. It includes validations on the entered data and displays the entered data on the console after submission.
@@ -24,6 +29,4 @@ This project is a simple form created using React.js and the useState hook with 
 5. Open your browser and go to `http://localhost:3000`.
 6. Fill out the form and submit to see the entered data in the console.
 
-## URl
-Deployed on firebase: https://reactform-d1909.web.app
-gh-pages: https://anupam-singh88.github.io/reactform/
+
